@@ -7,43 +7,43 @@ author: ""
 description: "NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. It’s a platform that’s run by its users, for its users."
 ---
 {{< hero_section
-titleText="What Is NavCoin"
-paragraphText="NavCoin is an open-source, blockchain based Proof of Stake cryptocurrency. Its design is public, nobody owns or controls NavCoin, and everyone can take part. It’s a platform that’s run by its users, for its users - with an incentivised network of nodes verifying payments all around&nbsp;the&nbsp;world."
+titleText="Cos'è NavCoin"
+paragraphText="NavCoin è una criptovaluta basata su blockchain Proof of Stake. La progettazione è pubblica, nessuno possiede o controlla NavCoin, ed ognuno può partecipare. E' una piattaforma che funziona grazie ai sui utenti per gli utenti stessi, con un network incentivato dalla verifica delle transazioni di pagamento basato su nodi presenti in tutto&nbsp;il&nbsp;mondo."
 imgSrc="/images/why-navcoin/why-hero.svg"
 >}}
 
 {{< item_container_section
-    titleText="Why Are People Using&nbsp;NavCoin?"
-    subtitleText="It's cheap, fast, eco-friendly and privacy focused."
+    titleText="Perchè le persone usano&nbsp;NavCoin?"
+    subtitleText="E' economico, rapido, eco-friendly ed orientato alla privacy."
 >}}
     {{< long_text
-        titleText="Be your own bank"
+        titleText="Sii la tua banca"
         imgSrc="/images/why-navcoin/why-own-bank.svg"
-        text="There are no banks or intermediaries that run NavCoin, and no one you need to deposit your money with. All payments are peer to peer, and managed by your wallet. Unlike the current system, you have total control of your money, and a say in how the network&nbsp;is&nbsp;run."
+        text="Non esistono bance o intermediari nell'utilizzo di NavCoin, e nessuno al quale affidare il tuo denaro. Tutti i pagamenti sono peer-to-peer e gestiti dal proprio portamonete. Diversamente dal sistema attuale le persone hanno il controllo totale del proprio denaro ed avere voce in capito sul come gestire&nbsp;il&nbsp;network."
 
     >}}
     {{< long_text
         titleText="Privacy"
         imgSrc="/images/why-navcoin/why-privacy.svg"
-        text="Blockchains by their nature are public ledgers that allows anyone to view every transaction ever sent, which makes privacy a challenge. NavCoin is dedicated to providing privacy for users, so that your information can only be given with your consent,&nbsp;not&nbsp;taken."
+        text="Le blockchain sono per loro natura dei registri distribuiti che permettono a chiunque di vedere le transazioni avvenute in qualsiasi momento, questo rende la privacy una vera sfida. NavCoin è orientato alla privacy degli utilizzatori, ciò implica che le informazioni sensibili possono essere fornite dall'utente e&nbsp;non&nbsp;estorte."
 
     >}}
     {{< long_text
         titleText="Cold staking"
         imgSrc="/images/why-navcoin/why-peer.svg"
-        text="Security is the number one priority for NavCoin, which makes cold staking an important feature on the network. Instead of having all your coins connected to the internet - this allows you to participate in staking the network, while also keeping your coins offline for&nbsp;added&nbsp;protection."
+        text="La sicurezza è l'obiettivo numero 1 per NavCoin, questo rende la funzionalità di cold staking una caratteristica importante del network. Anzichè avere tutte le proprie monete esposte al web, questa funzionalità permette lo staking del network anche mantenendo i propri fondi offline conseguendo&nbsp;maggiore&nbsp;sicurezza."
 
     >}}
     {{< long_text
-        titleText="A network that never sleeps"
+        titleText="Un network che non dorme mai"
         imgSrc="/images/why-navcoin/why-247.svg"
-        text="With nodes all around the world, the NavCoin network is running 24/7. As long as you’re connected to the internet, you can send & receive payments anywhere in the world, at any time of the day, with no downtime - making it ideal for&nbsp;digital&nbsp;commerce."
+        text="Con i suoi nodi presenti in tutto il mondo, il network di NavCoin è attivo 24/7. Fintanto che sarete connessi ad internet avrete la possibilità di inviare e ricevere pagamenti in tutto il mondo, ogni giorno, a qualsiasi ora e senza downtime. Questa caratteristica rende NavCoin lo strumento giusto per il&nbsp;commercio&nbsp;digitale."
 
     >}}
     {{< long_text
-        titleText="A human readable address"
+        titleText="Indirizzi a misura d'uomo"
         imgSrc="/images/why-navcoin/why-fair.svg"
-        text="You can personalise your wallet using OpenAlias, which allows you to create an email-style address for your NAV. The service is built on top of the worldwide DNS service to convert a domain name into a cryptocurrency address, making sending a payment easier&nbsp;than&nbsp;ever."
+        text="Potete personalizzare gli indirizzi del vostro portamonete usando OpenAlias, questo permette di creare un indirizzo simile ad un indirizzo email per i propri Nav. Il servizio è costruito con il miglior servizio DNS mondiale, permette di convertire un nome di dominio in un indirizzo per criptovaluta rendendo invii e ricezioni i più&nbsp;facili&nbsp;di sempre."
 
     >}}
     {{< long_text
