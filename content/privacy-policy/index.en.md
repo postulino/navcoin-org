@@ -8,35 +8,35 @@ description: "By using the site, you agree to the collection and use of informat
     title="Privacy Policy"
     bgColor="#fff"
     titleColor="#333">}}
-<p>This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://navcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.</p>
+<p>Questa pagina ti in merito alle policy riguardanti la raccolta, l'uso e l'eventuale distribuzione di informazioni personali che vengono ricevute dagli utenti del nostro sito (https://navcoin.org). Noi utilizziamo le vostre informazioni personali per meglio comprendere l'utilizzo del sito e per raccogliere statistiche sull'utilizzo del sito stesso.</p>
 
-<p>By using the site, you agree to the collection and use of information in accordance with this policy.</p>
+<p>Utilizzando il sito eccetti la raccolta e l'uso dei dati in accordo a questa con questa policy.</p>
 
-<h3>Log Data</h3>
-<p>Like many site operators, we collect information that your browser sends whenever you visit our site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address (with replaced last byte), browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>Dati di Log</h3>
+<p>Come molti altri siti, vengono raccolti dati che il browser invia ogni volta che visiti il nostro sito (“Log Data”). Questi Log Data posso includere informazioni come l'IP del tuo computer (modificando gli ultimi due digit), il tipo di browser, la versione, le pagine che visiti del nostro sito, la data e gli orari in cui lo visiti, il tempo che passi sulle pagine visitate ed altri dati statistici.</p>
 
 <h3>Cookies</h3>
-<p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our site.</p>
+<p>i Cookies sono file con piccole quantità di dati, che possono ncludere un identificatore anonimo. I Cookies sono inviati al tuo browser da un sito web e salvati all'interno del tuo computer. Puoi comunque istruire il tuo browsera rifiutare tuti i cookies oppure indicare quali accettare e quali informazioni inviare. In ogni caso se non vengono accettati i Cookies è possibile che tu non riesca ad utilizzare in maniera completa il nostro sito.</p>
 
-<p>We use cookies for the following purposes:</p>
+<p>Usiamo Cookies per i seguenti scopi:</p>
 
 <ul> 
-  <li>To keep track of whether you have pressed the “OK” button on the cookie disclaimer, so we don’t bother you with the notification if you have.</li>
-  <li>Our Analytics software (Google Analytics) uses cookies to measure and better understand user-interactions on our Site. You can read more about how Google Analytics uses cookies here.</li>
+  <li>Per tenere traccia dell'accettazione o meno dei cookies, in modo da non annoiarti continuamente con notifiche inutili.</li>
+  <li>Il nostro software di analisi (Google Analytics) usa cookies per misurare e meglio comprendere le interazioni tra utenti e sito web. Puoi leggere altro su come Google Analytics viene utilizzato leggendo di seguito.</li>
 </ul>
 
 <h3>Google Analytics</h3>
-<p>We use a third-party JavaScript plug-in provided by Google called “Google Analytics” to provide us with useful traffic statistics and to better understand how you use our site. We do not have direct access to the information obtained from Google Analytics, but Google provides us with a summary through their dashboard.</p>
+<p>Usiamo codice JavaScript di terze parti come plug-in fornito da Google denominato “Google Analytics” per raccogliere utili statistiche sull'utilizzo e per comprendere meglio come utilizzi il sito. Non abbiamo diretto accesso alle informazioni raccolte da Google Analytics ma Google fornisce una statistica attraverso la sua dashboard riepilogativa.</p>
 
-We may share the information obtained from Google Analytics with business partners who are interested in advertising on our website. The information shared with these business partners will not contain any personally identifying information (Google does not provide us with direct access to the data and therefore we cannot see this information).</p>
+Potremmo condividere le informazioni ottenute attraverso Google Analytics con business partenr i quali potrebbero essere interessati a posizionare contenuti pubblicitari sul nostro sito. Le informazioni condivise non conterranno alcun tipo di informazione personale (Google non permette un accesso diretto ai dati e di conseguenza nemmeno noi possiamo vedere queste informazioni).</p>
 
-You can opt-out of having your information collected by Google Analytics by downloading the Google Analytics opt-out browser add-on provided by Google. This will prevent your information being used by Google Analytics. Doing this will not affect your ability to use our Site in any way. You can download the opt-out browser add-on here. We also honor the Do Not Track header and will not track visitors who have Do Not Track switched on.</p>
+Puoi sempre scegliere l'opzione "opt-out" e scaricare le informazioni raccolte da Google installando il plugin di Google Analytics nel tuo browser. Questo impedisce a Google di utilizzare le tue informazioni. Questa azione comunque non pregiudica la tua capacità di utilizzare pienamente il nostro sito. Puoi scaricare l'add-on per l'opt-out da da questa pagina. Rispettiamo inoltre la schelta "Do Not Track" e quindi non tracceremo i visitatori che avranno questa impostazione accesa.</p>
 
-<h3>Changes to this Privacy Policy</h3>
-<p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.</p>
+<h3>Cambiamenti a questa Privacy Policy</h3>
+<p>Potremmo dover aggiornare questa privacy policy di tanto in tanto. Ti comunicheremo ogni cambiamento postando la nuova privacy policy sul sito. Ti invitiamo inoltre a prendere visione periodicamente della privacy policy per verificare i cambiamenti.</p>
 
-This Privacy Policy was last updated: 26th March, 2018.</p>
+Questa Privacy Policy è stata aggiornata il: 26th March, 2018.</p>
 
-<h3>Contact Us</h3>
-<p>If you have any questions about our privacy policy, or how your data is being collected and processed, please join the <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
+<h3>Contattaci</h3>
+<p>Se hai qualsiasi domanda riferita a questa privacy policy o in merito alle modalità con cui vengono trattati i dati raccolti unisciti a <a href="https://discord.gg/y4Vu9jw" target="e">community discord channel</a>.</p>
 {{< /text_section >}}
