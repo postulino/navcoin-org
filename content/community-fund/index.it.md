@@ -9,7 +9,7 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
     <div class="grid-container">
         <div class="text-container">
             <h1 style="font-weight: 600; margin-bottom:35px;">Community Fund</h1>
-            <p>NavCoin is built by the community, for the community. Being an open-source project that ran no premine or ICO - NavCoin’s Community Fund enables anyone to get paid by the network for their contribution to the ecosystem. </p>
+            <p>NavCoin è realizzato dalla community, per la community. Essendo un progetto open source non nato da premine o ICO - il community fund di NavCoin permette a chiunque di essere remunerato dal network per il suo contributo all'ecosistema NavCon. </p>
         </div>
         <img src="/images/community-fund/cfu-hero.png" alt="Hero image">
     </div>
@@ -18,70 +18,70 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
 
 
 {{< item_container_section
-    titleText="The Worlds Most Advanced Community&nbsp;Fund"
-    subtitleText="Projects are funded and approved by the decentralized network with no central authority. This ensures NavCoin’s direction remains firmly in the best interest of the entire network. This fund pays you to take your idea, nurture it, and build a team to bring it to&nbsp;life."
+    titleText="Il community Fund più avanzato al&nbsp;mondo"
+    subtitleText="I progetti sono approvati e finanziati dal network decentralizzato senza nessuna autorità centrale o intermediari. Questo approccio assicura che la direzione di NavCoin rimanga orientata all'interesse dell'intero network. Questo fondo ti ripaga per aver avuto una idea, averla sviluppata e costruito il team per far prendere vita al tuo&nbsp;progetto."
     >}}
     {{< feature
         titleText="Dual-vote consensus"
         imgSrc="/images/community-fund/cfu-dual-vote.svg"
-        text="The first community fund to implement a dual vote, to ensure that if work is never completed the funds are&nbsp;returned."
+        text="E' il primo community fund che utilizza un sistema di voto duale, ciò assicura che i fondi destinati ad un progetto non completato tornino nel community&nbsp;fund."
     >}}
     {{< feature
-        titleText="Open to anyone"
+        titleText="Apero a tutti"
         imgSrc="/images/community-fund/cfu-anyone.svg"
-        text="Anyone and everyone can get involved by submitting a proposal - leaving it to the network to decide what's most&nbsp;valuable."
+        text="Chiunque può essere coinvolto ed inviare una proposta di progetto al community fund, lasciando poi al network decidere quali di queste proposte ha maggior&nbsp;valore."
     >}}
     {{< feature                 
-        titleText="No centralised fund"
+        titleText="Fondo non centralizzato"
         imgSrc="/images/community-fund/cfu-decentralised-fund.svg"
-        text="No one owns the NAV in the Community Fund, the only way they can ever be spent is by the dual network consensus&nbsp;vote."
+        text="Nessuno possiede i NAV allocati nel community fund, l'unico modo per sbloccarli e spenderli è attraverso il sistema di consensi a doppio voto espresso dal&nbsp;network."
     >}}
     {{< feature                 
-        titleText="500,000 NAV per year"
+        titleText="500,000 NAV ogni anno"
         imgSrc="/images/community-fund/cfu-fund-per-year.svg"
-        text="Every block that gets minted generates 0.5 NAV into the community fund which accumulates over&nbsp;time."
+        text="Ogni blocco che viene minato genera 0,5 NAV che vengono accumulati nel tempo all'interno del community&nbsp;fund"
     >}}
     {{< feature                 
-        titleText="Different ways to get paid"
+        titleText="Diversi modi per essere remunerati"
         imgSrc="/images/community-fund/cfu-get-paid.svg"
-        text="Funds get released through a second vote - which can be paid out in stages or once the work is&nbsp;completed."
+        text="I fondi vengono rilasciati attraverso un secondo voto espresso dal network - i fondi possono essere pagati in una unica soluzione se il lavoro è completamente svolto, oppure in più&nbsp;step."
     >}}
     {{< feature                 
-        titleText="The network decides"
+        titleText="Il network decide"
         imgSrc="/images/community-fund/cfu-network.svg"
-        text="The community fund gives more power to the community - by funding people to get involved, and giving the network more of a voice about the direction of&nbsp;NavCoin."
+        text="Il community fund da maggiore potere alla community stessa - ricompensando le persone che partecipano e dando voce alla rete per decidere la direzione di&nbsp;NavCoin."
     >}}
 {{< /item_container_section >}}
 
 <section class="item-container-section  bg-purple " id="">
     <div class="ninety-vw-container" style="max-width: 1400px;">
-        <h1 class="container-title">How The Fund Works In 4&nbsp;Steps</h1>
+        <h1 class="container-title">Come funziona il Community&nbsp;Fund</h1>
         <h3 class="container-subtitle"></h3>
         <div class="grid-container" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-submit.svg" alt="" class="item-icon">
-                    <h3>Step 1: Submit Proposal</h3>
-                    <p style="margin-bottom: 10%">Dream up the improvements you would like to see in the NavCoin ecosystem, and submit your proposal to the&nbsp;network.</p>
-                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Create proposal        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Step 1: invia una proposta</h3>
+                    <p style="margin-bottom: 10%">Trova un modo di migliorare l'ecosistema di NavCoin, sottoponi la tua idea al&nbsp;network.</p>
+                    <a href="https://communityfund.nav.community/create-proposal" target="_blank" class="round-btn small gradient-btn">Crea proposta        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 2: Vote for Proposal</h3>
-                    <p style="margin-bottom: 10%">Anyone who is staking the NavCoin network can vote ‘yes’ or ‘no’ for every&nbsp;proposal with their network&nbsp;weight.</p>
-                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Step 2: Vota la proposta</h3>
+                    <p style="margin-bottom: 10%">Chiaunque stia facendo staking del network di NavCoin può votare  ‘sì’ oppure ‘no’ per qualsiasi proposta utilizzando il proprio&nbsp;peso di staking nel&nbsp;network.</p>
+                    <a href="https://communityfund.nav.community/?PENDING=on" target="_blank" class="round-btn small gradient-btn">Vedi le proposte        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/6be625e8bf582732c2b66ffa1705dd083fdd6c51/f8c8a/images/community-fund/cfu-payment.svg" alt="" class="item-icon">
-                    <h3>Step 3: Payment Request</h3>
-                    <p style="margin-bottom: 10%">Payments are only released after a second round of voting validating ‘proof&nbsp;of&nbsp;effort’ by the proposal owner.</p>
-                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Create payment request        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Step 3: Richieste di pagamento</h3>
+                    <p style="margin-bottom: 10%">I pagamenti sono rilasciati soltanto dopo un secondo round di votazioni che verificano i risultati prodotti dal titolare&nbsp;della&nbsp;proposta.</p>
+                    <a href="https://communityfund.nav.community/create-payment-request" target="_blank" class="round-btn small gradient-btn">Crea richiesta pagamento        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
