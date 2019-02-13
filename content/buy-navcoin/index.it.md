@@ -7,17 +7,17 @@ author: ""
 description: "NavCoin is publicly mined and ran no token sale. The only way to buy NavCoin is to purchase it from a third party or exchange."
 ---
 {{< hero_section
-titleText="Buy NavCoin"
+titleText="Acquista NavCoin"
 imgSrc="/images/buy-navcoin/buy-hero.svg"
-paragraphText="NavCoin is publicly mined and ran no token sale. The only way to get NAV is to purchase it from a third party or exchange. Exchanges provide highly varying degrees of safety, security, privacy, and control over your funds and information. Perform your own due diligence and choose a wallet where you will keep your NavCoin before selecting an exchange. Please follow the link to check exchange volumes for more&nbsp;information."
-buttonText="See market statistics"
+paragraphText="NavCoin is publicly mined and ran no token sale. L'unico modo per possedere NAV è acquistandoli da terze parti o da un exchange. Gli exchange hanno un grado di sicurezza estremamente variabile, così come di privacy e controllo dei tuoi fondi e delle relative informazioni. Verificate accuratamente e definite su quale wallet andrete a depositare i vostri NAV prima di scegliere un qualsiasi exchange. Seguite il link seguente per verificare i volumi sviluppati dai vari exchange e per maggiori&nbsp;informazioni."
+buttonText="Statistiche dei mercati"
 buttonLink="https://coinmarketcap.com/currencies/nav-coin/#markets"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 newTab="true"
 >}}
 {{< item_container_section
     titleText="Exchanges"
-    subtitleText="NavCoin is available at the following&nbsp;exchanges"
+    subtitleText="NavCoin è acquistabile sui seguenti&nbsp;exchanges"
 >}}
     {{< exchange
         titleText="Poloniex"
@@ -130,8 +130,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< center_text_cta
-    titleText="Spend Your NavCoin"
-    buttonText="Check out the stores"
+    titleText="Utilizzare NavCoin"
+    buttonText="Fare acquisti negli store"
     buttonImgSrc="/images/icons/rightward-arrow.svg"
     buttonLink="/merchants"
-    innerText="A number of businesses have already begun to integrate NavCoin as a payment option, and with them you can easily purchase a range of products and&nbsp;services.">}}
+    innerText="Molti business hanno già iniziato ad integrare NavCoin come opzione di pagamento e quindi potete acquistare una vasta gamma di prodotti e&nbsp;servizi.">}}
