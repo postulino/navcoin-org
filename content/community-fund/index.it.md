@@ -88,9 +88,9 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
             <div class="feature-column">
                 <div class="feature-card">
                     <img src="https://d33wubrfki0l68.cloudfront.net/a6136e0554b83cc742e44f715978ee9fbd3c7791/88e3e/images/community-fund/cfu-vote.svg" alt="" class="item-icon">
-                    <h3>Step 4: Vote for Payment</h3>
-                    <p style="margin-bottom: 10%">Once a milestone is reached, the network votes to ensure that the project is on track, which releases the&nbsp;funds.</p>
-                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">View payment requests        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+                    <h3>Step 4: Vota per i pagamenti</h3>
+                    <p style="margin-bottom: 10%">Quando uan milestone viene raggiunta il network vota per garantire che il progetto sia sul giusto percorso, questo oovoto rilascia i fondi per il&nbsp;pagamento.</p>
+                    <a href="https://communityfund.nav.community/?ACCEPTED=on&PENDING_PR=on" target="_blank" class="round-btn small gradient-btn">Vedi richieste di pagamento        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
                 </div>
             </div>
@@ -186,57 +186,57 @@ description: "The NavCoin community fund is a pool of NAV that's set aside to he
         </div>
       </div></div>
     <div style="display: block; max-width: 200px; margin: 0 auto; margin-top: 7%;">
-      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">View all proposals        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
+      <a href="https://communityfund.nav.community/" target="_blank" class="round-btn gradient-btn">Vedi tutte le proposte        <img src="/images/icons/rightward-arrow.svg" class="btn-img"> 
                     </a>
     </div>
   </div>
 </section>
 
 {{< zig_section
-  titleText="Where should I start?"
+  titleText="Da dove posso iniziare?"
   imgSrc="/images/community-fund/cfu-get-involved.svg"
-  buttonText="Join the Collab"
+  buttonText="Unisciti al Collab"
   buttonUrl="https://collab.navcoin.org/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-Once you've joined the community channels, the NavCoin Collab website is one of the places to find the range of projects that the community is working on. It's a forum that acts as the ‘town square’, and makes it easier for the community to share their project ideas with each&nbsp;other.
+Dopo che ti sarai unito ai canali della community, il sito NavCoin Collab è il posto ideale in cui trovare una vasta gamma di progetti sui quali sta lavorando la community stessa. E' un forum che rappresenta la piazza o la vetrina dei progetti e rende facile la condivisione e la partecipazione ai&nbsp;progetti.
 {{< /zig_section>}}
 
 {{< accordion
-  titleText="How To Create A&nbsp;Proposal"
-  subtitleText="We’ve got a process to help you ensure your proposal has the best chance of&nbsp;passing."
+  titleText="Come creare una&nbsp;proposta"
+  subtitleText="Abbiamo creato un processo semplice per assicurarti che la tua proposta abbia le adeguate possibilità di essere&nbsp;aprovata."
   anchor="download-core"
 
-  itemOneTitle="Step 1 - Understand the system and develop your ideas."
-  itemOneText="Think of project that could inspire the NavCoin network. You can go it alone or discuss it with the community in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> or on the <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
+  itemOneTitle="Step 1 - Comprendi il sistema e sviluppa la tua idea."
+  itemOneText="Pensa ad un progetto che possa ispirare la community che ruota attorno a NavCoin, puoi farlo da solo o confrontarti con tutti i mebri del network in <a href=\"https://reddit.com/r/navcoin\">Reddit</a>, <a href=\"https://discord.gg/dRyhDjm\">Discord</a> oppure su <a href=\"https://collab.navcoin.org\">NavCollab website</a>.  <br><img src=\"/images/community-fund/cfu-voting.png\" alt=\"voting image\">"    
 
-  itemTwoTitle="Step 2 - Create a project page."
-  itemTwoText="It can be anywhere, but to give your project maximum visibility in the community consider using the <a href=\"\">NavCollab website</a>.<br><br>Work out the details of the project. You need to communicate why the NavCoin community should fund it, if you need to tap into other people’s skills, and how long it will take from start to finish. <br><br>Your proposal might suit being funded in stages, especially if it’ll take some time to complete."
+  itemTwoTitle="Step 2 - Crea una pagina di progetto."
+  itemTwoText="Puoi crearla ovunque, ma per avere la massima visibilità nella community prova ad utilizzare <a href=\"\">NavCollab website</a>.<br><br>Elabora i dettagli del progetto. Ti serve inoltre comunicare il motivo per cui la community dovrebbe finanziare l'idea, comunicare la necessità di coinvolgimento di altre persone con altre skull, quanto tempo ti servirà per completare il progetto. <br><br>LA tua proposta può inoltre essere finanziata a piccoli passi, specialmente se il progetto prevede un tempo relativamente lungo per essere completato."
 
-  itemThreeTitle="Step 3 - Create your team."
-  itemThreeText="Do you need other skills to bring your project to life? Use NavCoin’s social channels and the NavCollab website to find community members who can help you complete your project."
+  itemThreeTitle="Step 3 - Crea il tuo team."
+  itemThreeText="Ti servono altre skill per dare vita al tuo progetto? Utilizza i canali social di NavCoin ed il sito NavCollab per trovare membri della community che possano aiutarti a completarlo."
 
-  itemFourTitle="Step 4 - Submit your proposal."
-  itemFourText="Complete the proposal form below, including a link to your project page.<br><br>To complete the process, you will need to pay a proposal fee. If the fund has only a small amount of NAV left, then the projects that pay the highest fees to the network will be accepted first. A fee of 50 Nav is necessary to stop people submitting poorly thought out proposals.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
+  itemFourTitle="Step 4 - Invia la tua proposta."
+  itemFourText="Completa il form sottostante includendo anche un link alla pagina di progetto.<br><br>Per completare il processo è necessario pagare una fee per la transazione della proposta. Se il fondo contiene una piccola quantità di NAV residui, il progetto che paga le fee maggiori è anche quello che avrà il diritto di essere finanziato per primo dal network. La fee di 50 NAV inoltre previene che idee di scarso valore vengano inviate al community fund per approvazione.<br><br><br><iframe src=\"https://nav-proposal-creator.netlify.com/proposal/create\" style=\"width:100%; height:600px;border:none;\"></iframe>"
 
-  itemFiveTitle="Step 5 - Promote your project to stakers."
-  itemFiveText="Once you’ve submitted your proposal, promote your project using the community channels. Communicate why you think it’s worth funding - what benefits will it bring? Why should the community support&nbsp;it?"
+  itemFiveTitle="Step 5 - Promuovi il tuo progetto tra gli stakers."
+  itemFiveText="Dopo aver inviato la tua proposta devi promuoverla usando i canali dela community. Comunica il motivo per il quale vale la pena finanziare il tuo progetto - quali benefici apporterà? Perchè la community drovrebbe supportare il&nbsp;progetto?"
 
-  itemSixTitle="Step 6 - Voting begins."
-  itemSixText="To be eligible to vote you must be staking NavCoin. Each voting period lasts 20,000 blocks (roughly 7 days).<br><br><ul><li>The minimum participation rate of stakers needs to be 50%.</li><br><li>Of that 50%, a proposal must receive 70% ‘yes’ votes to be accepted.</li><br><li>70% ‘no’ votes will result in it being rejected.</li><br><li>Proposals that don't met the 50% participation rate after 6 block periods will timeout and need to be resubmitted."
+  itemSixTitle="Step 6 - Inizia la votazione."
+  itemSixText="Per essere ammesso al voto devi avere NAV in staking nella rete. Ogni round di votazione dura 20.000 blocchi, circa 7 giorni.<br><br><ul><li>La partecipazione minima richiede che almeno il 50% della rete in staking esprima il proprio voto.</li><br><li>Di questo 50% è necessario che almeno il 70% voti ‘si’ affinchè la proposta venga approvata.</li><br><li>70% di voti ‘no’ farà risultare rigettata la proposta di progetto al community fund.</li><br><li>Le proposte che non raggiungono il 50% di adesione al voto per 6 round di voto consecutivi scadranno e dovranno essere reinviate per tentare una nuova richiesta di fondi."
 
-  itemSevenTitle="Step 7 - Begin the work."
-  itemSevenText="Start work and do your best to stick to your&nbsp;timeline.<br><br>Keep the community updated with how things are progressing in your project. It’s ok to ask for help along the&nbsp;way."
+  itemSevenTitle="Step 7 - Inizia il lavoro."
+  itemSevenText="Inizia a lavorare al progeto e fai il megio possibile per restare aderente alla&nbsp;timeline.<br><br>Aggiorna la community in merito a come sta andando lo sviluppo del progetto, se necessario puoi chiedere aiuto alla community per un supporto sul tuo progetto durante&nbsp;l'esecuzione."
 
-  itemEightTitle="Step 8 - Apply for payment."
-  itemEightText="Once your project is complete you can apply for payment from the Community Fund. If there are clear milestones in your proposal you can apply to receive payments at scheduled points in the&nbsp;timeline.<br><br>Payment is subject to a second consensus vote among NavCoin stakers. There must be a 50% minimum participation, with 70% ‘yes’ vote to be paid and 70% ‘no’ for payment to be&nbsp;rejected.<br><br>Note that you will need to submit your payment request before the project expiration date (which you set when you create your proposal - so make sure to include some&nbsp;buffer)."
+  itemEightTitle="Step 8 - Richiedi il pagamento."
+  itemEightText="Una volta completato il progetto puoi inviare una richiesta di pagamento al Community Fund. Se ci sono milestone chiare puoi anche richiedere pagamenti frazionati e schedulati secondo l'avanzamento di&nbsp;progetto.<br><br>Il pagamento è soggetto ad un ciclo di votazione della rete NavCoin e quindi dei suoi staker. Ci deve essere, come in precedenza, una partecipazione minima del 50% della rete, la votazione che termina con il 70% di ‘si’ darà luogo al pagamento, se la votazione termina con il 70% di ‘no’ la richiesta di pagamento verrà rigettata.<br><br>La richiesta di pagamento deve essere inviata prima che i termini di progetto siano scaduti, ovvero entro il tempo indicato durante la creazione della proposta di progetto inviata al Community Fund, prevedere un piccolo buffer di tempo è&nbsp;conveniente."
 >}}
 
 {{< social_grid_section
-    titleText="Join Our Community"
-    subtitleText="Promote your proposal ideas to the NavCoin community to get feedback, find collaborators and get votes."
+    titleText="Unisciti alla Community"
+    subtitleText="Promuovi la tua proposta nel network NavCoin, anche per rccogliere feedback, trovare collaboratori e raccogliere voti."
     bgPurple="true"
 >}}
     {{< social                 
