@@ -6,68 +6,68 @@ type: "default"
 description: "There are several ways to contribute to the NavCoin protocol - so if you’d like to support the project, here’s some of the best ways to get involved"
 ---
 {{< hero_section
-titleText="Get Involved"
-paragraphText="There are several ways to contribute to the NavCoin protocol, not all of which require a high level of programming skills. If you’d like to support the NavCoin project, here’s some of the best ways to get&nbsp;involved."
+titleText="Partecipa attivamente"
+paragraphText="Ci sono molti modi per contribuire allo svilupo del protocollo di NavCoin, e non tutti questi metodi richiedono una elevata preparazione in programmazione. Se volessi supportare il progetto NavCoin di seguito trovi l'elenco di alcune modalità con cui potrai&nbsp;contribuire."
 imgSrc="/images/get-involved/con-hero.svg"
 >}}
 {{< zig_section
-titleText="Translations"
+titleText="Traduzioni"
 imgSrc="/images/get-involved/con-translate.svg"
-  buttonText="Set up a Transifex account"
+  buttonText="Crea un account Transifex"
   buttonUrl="https://www.transifex.com/signup/"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
     reversed="true"
     newTab="true"
 >}}
-NavCoin Core has been translated into over two dozen languages, with dozens more languages partially translated — but more help is always needed. NavCoin uses Transifex for translation, so you’ll need to setup an&nbsp;account.<br><br>To contribute a translation, go to the NavCoin project on Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Click on the 'Join Team' button, let us know which languages you’re able to translate, and start&nbsp;translating!
+NavCoin Core è stato tradotto in oltre 25 lingue e molte altre sono ancora in fase di traduzione e sono parzilmente complete — l'aiuto è quindi è sempre ben accetto. NavCoin Utilizza Transifex per le traduzioni e per partecipare hai bisogno di un&nbsp;account.<br><br>Per contribuire alle traduzioni visita il link del progetto NavCoin su Transifex: <br><a href="https://www.transifex.com/navcoin/navcoin-core" style="text-decoration:underline;">https://www.transifex.com/navcoin/navcoin-core</a><br><br>Clicca su 'Join Team', facci sapere quale lingua sei in grado di tradurre ed inizia in poco tempo a&nbsp;tradurre!
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Documentation"
+  titleText="Documentazione"
   imgSrc="/images/get-involved/con-doc.svg"
-  buttonText="Contribute to developer docs"
+  buttonText="Contribuisci ai documenti di sviluppo"
   buttonUrl="https://github.com/NAVCoin/navcoin-dev-docs"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-We are currently working to bring online an open source developer documentation resource for NavCoin Core. If you want to help get this up and running please head over to GitHub and see how you can help out. Just make sure you follow the GitHub conventions outlined on this page and submit an issue about what documentation you’re writing to reduce duplication of&nbsp;effort.
+Stiamo lavorando per portare online la documentazione di sviluppo open-source di NavCoin Core. Se desideri aiutarci ad avviare questa parte del progetto visita GitHub e verifica come puoi supportare. Assicurati di seguire le modalità di utilizzo di GitHub descritte di seguito per evitare di richiedere un eccessivo sforzo sulla documentazione che stai&nbsp;producendo.
 {{< /zig_section>}}
 
 {{< zig_section
-titleText="Submit an issue"
+titleText="Invia una segnalazione"
 imgSrc="/images/get-involved/con-issue.svg"
-buttonText="Submit an issue"
+buttonText="Invia una segnalazione"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/issues"
 buttonImgSrc="/images/icons/rightward-arrow.svg"
 reversed="true"
 newTab="true"
 >}}
-For all non-critical problems with NavCoin Core please search for similar issues and if you don’t find any, submit a new issue providing the information&nbsp;below.
+Per tutti i problemi non-critici che impattano NavCoin Core ti preghiamo di cercare prima l'eventuale presenza di altre segnalazioni o problemi, se non trovi nulla invia una nuova segnalazione fornendo le indicazioni riportate di&nbsp;seguito.
 <br>
 <ul class="article-ul" style="color: rgba(0, 0, 0, 0.55);">
-  <li>A clear description of the problem and steps to reproduce the&nbsp;problem.</li>
-  <li>What version of NavCoin Core you use or what commit you built using.</li><li>Any relevant entries from your debug.log file. Please ensure to strip out any sensitive information before publishing your debug.log&nbsp;entries.</li>
+  <li>Chiara descrizione del problema e i passi da compiere per riprodurre fedelmente il&nbsp;problema.</li>
+  <li>Quale versione di NavCoin Core stai utilizzando.</li><li>Tutte le informazioni rilevanti presenti nel tuo file debug.log. Ricordati di eliminare preliminarmente ogni informazione sensibile che ti riguarda prima di pubblicare tale&nbsp;file.</li>
 </ul>
-<p class="paragraph-text">The best strategy to get your issue fixed quickly is to make it as easy as possible for the development team to track down the problem and write a fix. Providing more information and organizing it well helps&nbsp;significantly.</p>
+<p class="paragraph-text">La miglior strategia per risolvere velocemente gli errori che segnali è di rendere facile la vita degli svilupatori affinchè comprendano correttamente il problema e gestiscano la soluzione. Più informazioni fornirai ed organizzandole in modo logico e coerente aiuterà questo lavoro in modo&nbsp;significativo.</p>
 {{< /zig_section>}}
 
 {{< zig_section
-  titleText="Resolve an issue"
+  titleText="Risolvere un problema"
   imgSrc="/images/get-involved/con-resolve.svg"
-  buttonText="See the readme"
+  buttonText="Leggi il readme"
   buttonUrl="https://github.com/navcoin/navcoin-core/blob/master/CONTRIBUTING.md"
   buttonImgSrc="/images/icons/rightward-arrow.svg"
   bgPurple="true"
   newTab="true"
 >}}
-The issue tracker is the best place to find a useful way to contribute to NavCoin&nbsp;Core. Before starting to write any patches for issues you find, you may want to comment on the issue to make sure nobody else is already working on it. Remember that even if you’re resolving an issue you’ve found you will need to first create an issue in the issue&nbsp;tracker.
+L'issue tracker è il posto migliore nel quale trovare il modo giusto di collaborare allo sviluppo di NavCoin&nbsp;Core. Prima di cominciare a scrivere qualsiasi patche per gli errori trovati dovresti scrivere un commento per quell'errore per essere sicuro che nessuno stia lavorando allo sesso problema. Ricordati comunque che anche se stai risolvendo un errore che hai trovato, devi in ogni caso riportarlo nel issue&nbsp;tracker.
 <br><br>
-To resolve an issue follow this process:
+Per risolvere un problema segui questi passi:
 <br>
 <ul class="article-ul" style="color: rgba(255,255,255,0.55);">
-  <li>Fork NavCoin/navcoin-core to your own GitHub&nbsp;account.</li>
-  <li>Create a branch to work in to resolve the issue then get to&nbsp;work.</li>
+  <li>Forka NavCoin/navcoin-core su tuo account&nbsp;GitHub.</li>
+  <li>Crea un branch per lavorare alla soluzione del problema poi lavora sul problema&nbsp;stesso.</li>
   <li>Write or update unit and integration tests to cover any changes you’ve&nbsp;made.</li>
   <li>Make a pull request from your branch back into the main NavCoin Core repository with the issue type and number in the title (eg. Trivial: fixes spelling mistake #145).</li>
   <li>Talk with other NavCoin Core contributors on Discord or through GitHub to alert them to the pending Pull Request and they will review it as soon as&nbsp;possible.</li>
