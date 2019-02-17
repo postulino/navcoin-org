@@ -8,4 +8,4 @@ status: upcoming
 externalUrl: https://www.researchgate.net/publication/330366788_ZeroCT_Improving_Zerocoin_with_Confidential_Transactions_and_more
 ---
 
-As a replacement for the secondary 'NavTech' blockchain, a new privacy solution is being developed to work at the protocol&nbsp;level.
+Come sostituzione della blockchain secondaria 'NavTech', è stata svilupata una nuova soluzione in grado di lavorare direttamente a liello di protocollo.
