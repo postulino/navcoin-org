@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://medium.com/@craig.b.macgregor/next-steps-for-navcoin-core-e7fa9541dca9
 ---
 
-Modifying the community fund contribution from 0.25 NAV to 0.5 NAV to retain the 80:20 ratio when static block rewards are&nbsp;activated.
+E' stato aumentata la contribuzione al Community fund passando da 0.25 a 0.50 NAV per blocco al fine di mantenere un rapporto 80:20 anche quando l'opzione static block rewards sarà&nbsp;attivata.
