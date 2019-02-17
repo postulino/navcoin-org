@@ -8,4 +8,4 @@ status: completed
 externalUrl: https://github.com/NAVCoin/npips/blob/master/npip-0002.mediawiki
 ---
 
-Allowing for NAV, which are stored offline, to sign staking inputs that greatly increase the security of funds used for&nbsp;staking.
+Questo permette ai NAV, preservati offline, di firmare gli staking inputs. Questa modalità permette un aumento incredibile di sicurezza per i fondi in stato di&nbsp;staking.
