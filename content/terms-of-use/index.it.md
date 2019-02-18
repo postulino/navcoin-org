@@ -8,14 +8,14 @@ draft: false
     bgColor="#fff"
     titleColor="#333">}}
 
-<p>© NavCoin 2014-2018 is released under the <a href="http://opensource.org/licenses/mit-license.php">MIT license</a>.</p>
+<p>© NavCoin 2014-2018 - distribuito sotto <a href="http://opensource.org/licenses/mit-license.php">MIT license</a>.</p>
 
-<p>By using the NavCoin softwares or network, you also agree to the following terms of use.</p>
+<p>Utilizzando software o network NavCoin, accetti i seguenti termini e condizioni di utilizzo.</p>
 
-<h3>No Investment advice</h3>
-<p>This website does not provide individual or customized legal, tax, financial, or investment services. Since each individual’s situation is unique, a qualified professional should be consulted before making financial decisions. Since NAV is meant to be used as a medium of exchange, nothing on this website constitutes investment advice or a solicitation to buy, hold, invest in, own, or use NAV.</p>
+<h3>Non sono consigli finanziari</h3>
+<p>Questo sito non fornisce servizi, individuali o customizzati, legati ad aspetti legali, finanziari o di investimento. In virtù del fatto che ogni individuo vive situazioni uniche, è necessario rivolgersi a qualificati professionisti in grado di dare opportuna consulenza prima di prendere qualsiasi decisione finanziaria. Dal momento che NAV è inteso come mezzo di scambio, nessun contenuto di questo sito rappresenta un consiglio di investimento, una sollecitazione all'acquisto, al mantenimento, al possesso o all'utilizzo di NAV.</p>
 
-<h3>No liability for NAV loss</h3>
+<h3>Nessuna responsabilità per perdita dei NAV</h3>
 <p>NavCoin Core Developers will not be responsible for any damages, claims, or losses arising from the use of NAV, including the actions or inactions or events related to third parties, security problems during the use of any NAV-related software or service, technical failures during the use of any NAV-related software or service, software or data corruption problems during the use of any NAV-related software or service, or user errors during the use of any NAV-related software or service.</p>
 
 <h3>Disclaimer of warranties</h3>
