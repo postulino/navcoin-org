@@ -21,7 +21,7 @@ titleText="Perchè la decentralizzazione è rivoluzionaria"
 imgSrc="/images/governance/gov-decentralise.svg"
 reversed="true"
 >}}
-Come collaboratori della comunità NavCoin siamo membri di una delle prime società anarchico-sindacaliste funzionanti al mondo. Questo sistema rivoluzionario si basa sulla convinzione che quando le persone sono libere di agire nel proprio interesse, naturalmente lavorano anche nel migliore interesse della società. Un altro modo per descrivere l'anarco-sindacalismo è la&nbsp;decentralizzazione.
+Come collaboratori della comunità NavCoin siamo membri di una delle prime società anarchico-sindacaliste funzionanti al mondo. Questo sistema rivoluzionario si basa sulla convinzione che quando le persone sono libere di agire nel proprio interesse, naturalmente lavorano anche nel migliore interesse  della società. Un altro modo per descrivere l'anarco-sindacalismo è la&nbsp;decentralizzazione.
 {{< /zig_section>}}
 
 
